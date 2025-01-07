@@ -15,3 +15,4 @@ C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\refint\DataApp.dll
 C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.pdb
 C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.genruntimeconfig.cache
 C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\ref\DataApp.dll
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.sourcelink.json
