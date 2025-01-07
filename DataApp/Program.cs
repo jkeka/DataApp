@@ -97,7 +97,7 @@ public class PersonDataApp
         }
         catch (Exception ex)
         {
-            // In case of error in fetching person data write a message
+            // In case of error in fetching weather data write a message
             Console.WriteLine("Error in fetching weather data: " + ex.Message);
         }
     }
