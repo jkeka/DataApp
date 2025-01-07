@@ -13,7 +13,7 @@ public class PersonDataApp
     private const string apiUrlPerson = "https://randomuser.me/api/";
 
     // Define API-key to get access to data in OpenWeatherMap
-    private const string apiKeyWeather = "51cdac9d090e4d1c1820790d96c30cd1"; 
+    private const string apiKeyWeather = "xxxxxxxxxxxxxxxxxxxx"; 
     
     // Variable to contain city for weather, value is set in GetPersonDataAsync() method.
     private static string cityFromPerson = "";
