@@ -1,0 +1,17 @@
+C:\Users\jaani\source\repos\DataApp\DataApp\bin\Debug\net8.0\DataApp.exe
+C:\Users\jaani\source\repos\DataApp\DataApp\bin\Debug\net8.0\DataApp.deps.json
+C:\Users\jaani\source\repos\DataApp\DataApp\bin\Debug\net8.0\DataApp.runtimeconfig.json
+C:\Users\jaani\source\repos\DataApp\DataApp\bin\Debug\net8.0\DataApp.dll
+C:\Users\jaani\source\repos\DataApp\DataApp\bin\Debug\net8.0\DataApp.pdb
+C:\Users\jaani\source\repos\DataApp\DataApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.csproj.AssemblyReference.cache
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.AssemblyInfoInputs.cache
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.AssemblyInfo.cs
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.csproj.CoreCompileInputs.cache
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.csproj.Up2Date
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.dll
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\refint\DataApp.dll
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.pdb
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\DataApp.genruntimeconfig.cache
+C:\Users\jaani\source\repos\DataApp\DataApp\obj\Debug\net8.0\ref\DataApp.dll

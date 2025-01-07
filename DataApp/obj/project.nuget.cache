@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r9rFNaR/Xi0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaani\\source\\repos\\DataApp\\DataApp\\DataApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaani\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

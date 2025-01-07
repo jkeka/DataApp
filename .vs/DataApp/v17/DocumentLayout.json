@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaani\\source\\repos\\DataApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B25167A-9D78-412A-9834-94E525B12AB7}|DataApp\\DataApp.csproj|c:\\users\\jaani\\source\\repos\\dataapp\\dataapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B25167A-9D78-412A-9834-94E525B12AB7}|DataApp\\DataApp.csproj|solutionrelative:dataapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaani\\source\\repos\\DataApp\\DataApp\\Program.cs",
+              "RelativeDocumentMoniker": "DataApp\\Program.cs",
+              "ToolTip": "C:\\Users\\jaani\\source\\repos\\DataApp\\DataApp\\Program.cs",
+              "RelativeToolTip": "DataApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:07:36.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
